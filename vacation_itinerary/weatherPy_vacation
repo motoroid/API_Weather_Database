@@ -1,0 +1,290 @@
+City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
+0,Port Alfred,ZA,74.57,-33.5906,26.891,No hotel found
+2,Maceio,BR,87.24,-9.6658,-35.7353,Maceió Hostel e Pousada
+3,Yenagoa,NG,79.88,4.9247,6.2642,Peretimi Hotels Ltd.
+4,Hithadhoo,MV,80.8,-0.6,73.0833,Pebbles Inn
+5,East London,ZA,70.74,-33.0153,27.9116,No hotel found
+7,Cap Malheureux,MU,78.48,-19.9842,57.6142,Cape Garden
+8,Bathsheba,BB,75.81,13.2167,-59.5167,Atlantis Hotel
+9,Bambous Virieux,MU,78.22,-20.3428,57.7575,No hotel found
+12,Ponta Do Sol,PT,73.0,32.6667,-17.1,Estalagem Ponta do Sol
+14,Itarema,BR,84.25,-2.9248,-39.9167,Pousada Oásis
+16,Alta Floresta,BR,87.91,-9.8756,-56.0861,Villas Hotel
+18,Morant Bay,JM,82.71,17.8815,-76.4093,Morant Villas
+20,Pisco,PE,73.45,-13.7,-76.2167,La Portada
+23,Port-Gentil,GA,78.76,-0.7193,8.7815,Tara-Mé
+24,Carinhanha,BR,85.46,-14.3047,-43.765,No hotel found
+26,Lima,PE,75.45,-12.0432,-77.0282,Hotel Peach Garden
+32,Saint-Philippe,RE,74.79,-21.3585,55.7679,Le Baril
+34,Muisne,EC,77.7,0.6,-80.0333,Hostal Té de Menta
+37,Conceicao Do Araguaia,BR,86.74,-8.2578,-49.2647,No hotel found
+38,Kavaratti,IN,81.43,10.5669,72.642,No hotel found
+43,Cape Town,ZA,74.08,-33.9258,18.4232,Townhouse Hotel
+45,Cidreira,BR,73.08,-30.1811,-50.2056,Hotel Castelo
+46,Guane,CU,81.18,22.2025,-84.0875,No hotel found
+52,Yadgir,IN,72.23,16.7667,77.1333,No hotel found
+54,Los Llanos De Aridane,ES,71.35,28.6585,-17.9182,Valle Aridane
+57,Saraland,US,71.42,30.8207,-88.0706,No hotel found
+60,Buchanan,LR,80.35,5.8808,-10.0467,Phillipmena's Guesthouse
+62,Prieska,ZA,83.82,-29.6641,22.7474,No hotel found
+65,Arraial Do Cabo,BR,75.16,-22.9661,-42.0278,No hotel found
+67,Kollam,IN,75.45,8.8833,76.6,Sea Palace
+68,Port Blair,IN,82.44,11.6667,92.75,Andaman Ocean Breeze
+69,San Cristobal,VE,75.38,7.7669,-72.225,Terra Sur
+74,Saint-Pierre,RE,77.92,-21.3393,55.4781,Tropic Hotel
+76,Kudahuvadhoo,MV,80.69,2.6708,72.8944,No hotel found
+82,Mercedes,AR,87.85,-34.6515,-59.4307,Gran Hotel Mercedes
+83,Mar Del Plata,AR,83.82,-38.0023,-57.5575,Nuevo Ostende
+84,Conceicao Da Barra,BR,84.07,-18.5933,-39.7322,Porto Marlin Hotel
+85,Abong Mbang,CM,72.72,3.9833,13.1833,No hotel found
+86,Hambantota,LK,73.74,6.1241,81.1185,Oasis Aurweda Resort Hambathota
+89,Jizan,SA,79.74,17.3333,42.6667,No hotel found
+93,Hualmay,PE,74.19,-11.0964,-77.6139,Hotel Mi Choacan
+100,Nicoya,CR,84.88,10.1483,-85.452,Hotel marianela
+101,Cabedelo,BR,86.67,-6.9811,-34.8339,No hotel found
+103,Rocha,UY,72.14,-34.4833,-54.3333,Hotel Municipal
+104,Sao Filipe,CV,81.25,14.8961,-24.4956,Bela Vista
+106,Nouadhibou,MR,71.02,20.931,-17.0347,Hotel valencia
+107,Koutiala,ML,80.42,12.3917,-5.4642,La Chaumière
+110,Necochea,AR,77.4,-38.5473,-58.7368,Cabañas Río Quequén
+112,Souillac,MU,77.38,-20.5167,57.5167,Hotel SkylineInn
+113,Mahebourg,MU,78.26,-20.4081,57.7,Grand Bel Air
+114,Grand Gaube,MU,78.39,-20.0064,57.6608,Coco Villa
+115,Saldanha,ZA,71.65,-33.0117,17.9442,Hoedjesbaai
+117,Salalah,OM,71.53,17.0151,54.0924,Muscat International Hotel
+120,Nyimba,ZM,72.9,-14.5566,30.8149,Dalitso Guesthouse
+121,Cuamba,MZ,72.72,-14.8031,36.5372,Pensao Cariaco
+123,Calabar,NG,80.01,4.9517,8.322,Nelbee Guest House
+126,Miraflores,MX,73.98,19.2167,-98.8083,No hotel found
+129,Barranca,PE,73.74,-10.75,-77.7667,Emperador
+130,Piacabucu,BR,82.72,-10.4056,-36.4344,O Leão
+134,Mocuba,MZ,73.0,-16.8392,36.9856,No hotel found
+140,Santana Do Livramento,BR,87.44,-30.8908,-55.5328,Verde Plaza
+143,Bosaso,SO,75.04,11.2842,49.1816,Bosaso hotel
+147,Santo Antonio Do Ica,BR,80.22,-3.1022,-67.9397,No hotel found
+149,Colesberg,ZA,75.94,-30.72,25.0972,No hotel found
+152,Bengkulu,ID,73.31,-3.8004,102.2655,Dena Hotel
+153,Lagos,NG,80.4,6.5833,3.75,No hotel found
+155,Georgetown,MY,80.24,5.4112,100.3354,Page 63 hostel
+156,Kantunilkin,MX,87.24,21.0917,-87.45,Posada del Parque
+160,Meulaboh,ID,74.41,4.1363,96.1285,Hotel Meuligou
+161,Sur,OM,73.99,22.5667,59.5289,Sur Hotel
+163,Clearwater,US,80.04,27.9659,-82.8001,The Fort Harrison Hotel
+166,Biu,NG,73.9,10.6129,12.1946,No hotel found
+168,Raga,SS,78.73,8.4596,25.678,No hotel found
+172,Chicama,PE,70.34,-7.8447,-79.1469,No hotel found
+177,Antofagasta,CL,70.88,-23.65,-70.4,Hotel Colón
+178,Morondava,MG,76.33,-20.2833,44.2833,Hotel Sharon Menabe
+180,Touros,BR,82.26,-5.1989,-35.4608,Pousada Atlântico
+181,Chuy,UY,70.12,-33.6971,-53.4616,Alerces
+182,Punta Gorda,US,82.0,26.9298,-82.0454,SpringHill Suites by Marriott Punta Gorda Harborside
+186,Mahemdavad,IN,77.25,22.8333,72.7667,No hotel found
+188,Pandharpur,IN,76.73,17.6667,75.3333,No hotel found
+195,Caravelas,BR,81.95,-17.7125,-39.2481,Pousada dos Navegantes
+197,Bulawayo,ZW,73.8,-20.15,28.5833,Selboune Hotel
+199,Pedernales,DO,79.68,18.0384,-71.744,Hostal Doña Chava
+202,Adrar,MR,81.14,20.5022,-10.0711,No hotel found
+204,Nkhotakota,MW,77.38,-12.9274,34.2961,Zayi Guest House
+205,Mariakani,KE,78.89,-3.8633,39.4736,The Smart Choice Enterprises
+207,Gourcy,BF,77.31,13.2167,-2.35,Hôtel Cité Sàrl
+209,Ouallam,NE,77.95,14.3188,2.0866,No hotel found
+212,Una,IN,78.82,20.8167,71.0333,No hotel found
+218,Calama,CL,75.69,-22.4667,-68.9333,Apart Hotel Geotel Calama
+220,Coari,BR,80.74,-4.085,-63.1414,Hotel Saúde
+222,Kolokani,ML,77.54,13.5728,-8.0339,Hôtel kolokani
+223,Dingle,PH,75.2,10.9995,122.6711,No hotel found
+231,Quatre Cocos,MU,78.1,-20.2078,57.7625,Horisun
+232,Quelimane,MZ,82.35,-17.8786,36.8883,Mabassa
+233,Bouake,CI,80.71,7.6895,-5.0218,Hôtel Arc-En-Ciel
+234,Matara,LK,74.17,5.9485,80.5353,Villa Palm Breeze
+235,Kralendijk,BQ,79.56,12.15,-68.2667,Hotel Bonaire Inn
+240,Puerto Leguizamo,CO,86.61,-0.1934,-74.7819,Hotel Girasoles
+241,Rio Grande,BR,82.51,-32.035,-52.0986,Hotel Vila Moura Executivo
+243,Kulhudhuffushi,MV,80.69,6.6221,73.07,No hotel found
+250,Salinopolis,BR,84.29,-0.6136,-47.3561,Hotel Salinópolis
+251,Puerto Ayora,EC,80.56,-0.7393,-90.3518,Hostal La Mirada De Solitario George
+252,Impfondo,CG,71.65,1.6381,18.0667,Tropicana
+253,Vredendal,ZA,70.2,-31.6683,18.5012,No hotel found
+254,Jalingo,NG,78.28,8.8833,11.3667,No hotel found
+256,Tibati,CM,77.58,6.4667,12.6333,No hotel found
+257,Carnarvon,AU,70.02,-24.8667,113.6333,No hotel found
+258,Ugoofaaru,MV,80.11,5.6667,73.0,No hotel found
+259,Progreso,MX,88.11,21.2833,-89.6667,Centro Vacacional Obrero CTM
+261,Videira,BR,77.99,-27.0083,-51.1517,Hotel Brazão
+267,Sao Joao Da Barra,BR,75.29,-21.6403,-41.0511,Pousada Mediterrâneo
+268,Arlit,NE,75.7,18.7369,7.3853,No hotel found
+269,Upata,VE,86.2,8.0086,-62.3989,Hotel Garibardi
+270,Venezuela,VE,87.48,8.0,-66.0,No hotel found
+275,Malakal,SS,81.46,9.5334,31.6605,No hotel found
+278,Harper,LR,79.86,4.375,-7.7169,No hotel found
+281,Fomboni,KM,81.64,-12.28,43.7425,Mohéli La Plage
+284,Padang,ID,74.43,-0.9492,100.3543,losmen Surya
+286,Capitan Bado,PY,85.95,-23.2667,-55.5333,No hotel found
+291,Arrecife,ES,71.58,28.963,-13.5477,Hostal San Gines
+294,Mayor Pablo Lagerenza,PY,87.31,-19.9309,-60.7718,No hotel found
+295,Wukari,NG,79.99,7.85,9.7833,No hotel found
+296,Funadhoo,MV,80.28,6.15,73.2667,No hotel found
+297,Manyana,BW,79.3,-23.4,21.7167,No hotel found
+298,Puerto Ayacucho,VE,85.28,5.6639,-67.6236,Hotel VENETUR Amazonas
+300,Barentu,ER,73.96,15.1139,37.5928,No hotel found
+301,Axim,GH,79.79,4.8699,-2.2405,Axim Beach Hotel
+302,Porto Velho,BR,80.65,-8.7619,-63.9039,Hotel Slaviero Essential Porto Velho
+303,El Carmen,CO,78.53,8.5106,-73.4478,No hotel found
+309,Bakau,GM,81.52,13.4781,-16.6819,African Village Hotel
+310,Antonina,BR,80.28,-25.4286,-48.7119,Hotel Cristina
+313,Pangoa,PE,87.24,-12.1167,-73.0,No hotel found
+314,Puerto El Triunfo,SV,82.42,13.2833,-88.55,Motel Jardín
+315,Puerto Asis,CO,84.34,0.5133,-76.5007,Pakarii
+317,Faranah,GN,77.02,10.0404,-10.7434,Hotel Selima
+318,Itambacuri,BR,82.26,-18.0311,-41.685,No hotel found
+321,Nsoko,SZ,72.34,-27.0333,31.95,No hotel found
+322,Bridgetown,BB,75.69,13.1,-59.6167,Radisson Aquatica Resort
+324,Los Palacios,CU,81.09,22.5872,-83.2486,No hotel found
+328,Mecca,SA,76.12,21.4267,39.8261,Rehab Al Marwa Hotel 1
+329,Gamba,GA,76.84,-2.65,10.0,No hotel found
+330,Freetown,SL,79.66,8.484,-13.2299,Formal Leona hotel
+332,Ipanguacu,BR,88.86,-5.4983,-36.855,No hotel found
+342,Amarante Do Maranhao,BR,82.27,-5.5667,-46.7422,No hotel found
+343,Kidal,ML,74.88,18.4411,1.4078,No hotel found
+346,Boca Do Acre,BR,88.75,-8.7522,-67.3978,No hotel found
+349,Mwanga,TZ,73.04,-4.8,38.2,No hotel found
+350,Kimberley,ZA,75.34,-28.7323,24.7623,Royal Paume Hotel
+353,Xuddur,SO,77.83,4.1213,43.8894,No hotel found
+356,Tabou,CI,79.93,4.423,-7.3528,hôtel le rochet
+360,Castro,BR,73.8,-24.7911,-50.0119,Hotel Central Palace
+362,Bilma,NE,73.89,18.6853,12.9164,No hotel found
+364,Abu Dhabi,AE,73.42,24.4667,54.3667,Marriott Downtown Abu-Dhabi
+366,Seaforth,JM,81.14,17.9358,-76.4573,No hotel found
+368,Aguimes,ES,71.65,27.9054,-15.4461,Hotel Villa de Agüimes
+369,Umm Lajj,SA,75.49,25.0213,37.2685,No hotel found
+376,La Paz Centro,NI,87.75,12.34,-86.6753,No hotel found
+378,Santiago De Cuba,CU,84.43,20.0247,-75.8219,Rex
+382,Sambava,MG,74.91,-14.2667,50.1667,Royal Sava Hôtel
+383,Qandala,SO,75.54,11.472,49.8728,No hotel found
+385,Mucurapo,TT,79.97,10.6667,-61.5333,Liam's guest House
+386,Mazagao,BR,89.78,-0.115,-51.2894,No hotel found
+393,Yanam,IN,73.96,16.7333,82.2167,No hotel found
+395,Acarau,BR,84.36,-2.8856,-40.12,No hotel found
+396,Nueva Loja,EC,87.46,0.0847,-76.8828,Castillo Real
+399,Gao,ML,75.0,16.6362,1.637,No hotel found
+403,Santa Fe,AR,88.99,-31.6333,-60.7,Intersur Hotel
+404,Alindao,CF,77.58,5.0267,21.2088,No hotel found
+405,Cayenne,GF,86.04,4.9333,-52.3333,Central Hôtel
+412,Cockburn Town,TC,76.21,21.4612,-71.1419,The Salt Raker Inn
+414,Beloha,MG,73.8,-25.1667,45.05,No hotel found
+416,Mitsamiouli,KM,80.65,-11.3847,43.2844,Hotel le Paradis
+418,Takoradi,GH,80.11,4.8845,-1.7554,Hillcrest
+427,Monrovia,LR,80.37,6.3005,-10.7969,Bella Casa Hotel
+430,Pala,TD,77.63,9.3642,14.9046,No hotel found
+431,Nioro,GM,84.52,13.35,-15.75,No hotel found
+433,Atar,MR,82.65,20.5169,-13.0499,فندق سكليل
+436,Omboue,GA,77.11,-1.5746,9.2618,Georges Faustin Aurat
+438,Eydhafushi,MV,80.01,5.1033,73.0708,No hotel found
+440,Kharhial,IN,70.97,20.2833,82.7667,No hotel found
+441,Santa Maria,BR,83.5,-29.6842,-53.8069,Hotel Morotin
+447,Grand-Santi,GF,86.72,4.25,-54.3833,No hotel found
+450,Mogadishu,SO,80.24,2.0371,45.3438,SYL Hotel
+452,Taoudenni,ML,83.84,22.6783,-3.9836,No hotel found
+454,Bandarbeyla,SO,77.02,9.4942,50.8122,No hotel found
+456,Beira,MZ,82.49,-19.8436,34.8389,Hotel Savoy
+457,Porto Belo,BR,81.79,-27.1578,-48.5531,Residencial Maravilha
+458,Richards Bay,ZA,74.05,-28.783,32.0377,Protea Hotel
+461,Xai-Xai,MZ,75.56,-25.0519,33.6442,No hotel found
+462,Pasni,PK,72.61,25.2631,63.471,No hotel found
+463,Paracuru,BR,82.11,-3.41,-39.0306,Pousada Sol e Lua
+465,Hobyo,SO,78.55,5.3505,48.5268,No hotel found
+466,Gunjur,GM,80.74,13.2019,-16.7339,Footsteps Eco Lodge
+467,Tombouctou,ML,77.11,20.0,-3.0,No hotel found
+468,Puerto Del Rosario,ES,71.35,28.5004,-13.8627,Hotel Tamasite
+473,Pimentel,PE,72.48,-6.8367,-79.9342,Hospedaje Calle del Sol
+476,Praia,CV,81.14,14.9215,-23.5087,Casa Sodadi
+477,Surt,LY,70.14,31.2089,16.5887,فندق المدينة-سرت
+483,Natal,BR,84.85,-5.795,-35.2094,Natal Palace Hotel
+486,Kano,NG,74.14,12.0001,8.5167,Gab Hotel
+487,Soyo,AO,77.74,-6.1349,12.3689,Hotel Maria Teres
+488,Techiman,GH,79.63,7.5862,-1.9414,Encom Hotel Ltd
+490,Gabu,GW,82.35,12.2833,-14.2167,HOTEL VISIOM
+496,Puri,IN,73.92,19.8,85.85,Divine Beach Homestay
+497,Paragominas,BR,88.41,-2.9667,-47.4833,No hotel found
+499,Santa Cruz Cabralia,BR,82.63,-16.2781,-39.0247,Campo Bahia Resort
+503,Porto Novo,BJ,80.22,6.4965,2.6036,Hôtel 6500 CFA
+506,Birnin Kebbi,NG,77.02,12.4539,4.1975,Fab Hotel
+511,Vila Do Maio,CV,81.39,15.1333,-23.2167,Residencial Jardins De Maio
+514,Sembe,CG,72.12,1.6481,14.5806,No hotel found
+516,Road Town,VG,77.23,18.4167,-64.6167,No hotel found
+517,Luanda,AO,78.8,-8.8368,13.2343,Hotel Forum
+521,Princeton,US,83.01,25.5384,-80.4089,No hotel found
+523,Minna,NG,82.31,9.6139,6.5569,No hotel found
+524,Barahona,DO,84.02,18.2085,-71.1008,Hotel Baramar
+525,Boda,CF,76.42,4.3189,17.4695,No hotel found
+528,Santa Maria Da Vitoria,BR,79.57,-13.3947,-44.1886,Hotel Passarela
+529,Camargo,MX,72.12,27.6667,-105.1667,Hotel Santa Fe
+531,Loandjili,CG,77.58,-4.7561,11.8578,Le Raphia Guest House
+532,Tessalit,ML,76.78,20.1986,1.0114,No hotel found
+535,Pedasi,PA,81.59,7.5333,-80.0333,Dim's Hostal
+536,Kpandu,GH,81.55,6.9954,0.2931,Catherine’s Lodge
+537,Saint-Joseph,RE,73.78,-21.3667,55.6167,No hotel found
+539,Bonthe,SL,80.98,7.5264,-12.505,No hotel found
+540,Gorom-Gorom,BF,79.07,14.4439,-0.2361,No hotel found
+541,Ambovombe,MG,73.89,-25.1667,46.0833,La source
+550,Werda,BW,79.02,-25.2667,23.2833,No hotel found
+553,Corralillo,CU,78.57,22.9819,-80.5856,No hotel found
+554,Mandiana,GN,80.71,10.6333,-8.6833,No hotel found
+555,Carlos Chagas,BR,83.66,-17.7031,-40.7664,No hotel found
+557,Jacareacanga,BR,73.4,-6.2222,-57.7528,Hotel São Cristovão
+559,Calvinia,ZA,70.29,-31.4707,19.776,No hotel found
+560,Male,MV,82.35,4.1748,73.5089,Champa Central Hotel
+562,Conde,BR,83.66,-7.2597,-34.9075,Paladino
+563,Inhambane,MZ,76.89,-23.865,35.3833,Hotel de Inhambane
+564,Manaure,CO,83.37,11.7751,-72.4445,hotel palaima
+567,Sao Gabriel Da Cachoeira,BR,83.79,-0.1303,-67.0892,Casa de Hóspedes do CFRN/5ºBIS
+569,Liure,HN,87.39,13.5358,-87.0919,No hotel found
+576,Caucaia,BR,82.04,-3.7361,-38.6531,No hotel found
+579,Bouna,CI,84.4,9.2667,-3.0,Hôtel Éléphant  Bouna
+581,Kalmunai,LK,76.6,7.4167,81.8167,Saji new food
+582,Oistins,BB,75.29,13.0667,-59.5333,The Abidah By Accra
+583,Isla Mujeres,MX,84.25,21.2311,-86.731,Villa La Bella
+587,Bartica,GY,84.52,6.4,-58.6167,Rockville Hotel
+590,Biltine,TD,76.15,14.5333,20.9167,فندق ثلاث نجوم بلتن
+596,Caucasia,CO,85.37,7.9865,-75.1935,Hotel Kennedy
+598,Aripuana,BR,87.44,-9.1667,-60.6333,No hotel found
+600,Hedaru,TZ,73.65,-4.5,37.9,No hotel found
+606,Olinda,BR,83.93,-8.0089,-34.8553,Fidji Motel
+609,Pitimbu,BR,84.79,-7.4706,-34.8086,Pousada Brisa Mar
+610,Brasilia,BR,78.62,-15.7797,-47.9297,Hotel de Trânsito
+612,Guantanamo,CU,81.97,20.1444,-75.2092,Martí
+613,Araouane,ML,77.18,18.9048,-3.5265,No hotel found
+614,Trincomalee,LK,78.82,8.5711,81.2335,Silver Star Inn
+616,Calabozo,VE,87.67,8.9242,-67.4293,Best Western Hotel Plaza Real
+617,Camacari,BR,83.97,-12.6975,-38.3242,Hotel Uberlândia
+620,Campina Verde,BR,78.55,-19.5356,-49.4864,No hotel found
+622,Mananjary,MG,73.96,-21.2167,48.3333,Ideal Hotel Annexe
+623,Matadi,CD,75.29,-5.8167,13.45,Hôtel Métroplole
+624,Crixas,BR,85.05,-14.5489,-49.9692,No hotel found
+630,Sao Felix Do Xingu,BR,83.71,-6.6447,-51.995,Hotel Terraço
+632,Bubaque,GW,81.09,11.2833,-15.8333,Chez Julio
+634,Ikwiriri,TZ,73.72,-7.9562,38.9716,No hotel found
+637,Bahia De Caraquez,EC,78.98,-0.6,-80.4167,No hotel found
+638,Rapar,IN,74.68,23.5667,70.6333,No hotel found
+650,Youkounkoun,GN,83.1,12.5333,-13.1333,No hotel found
+653,Mahibadhoo,MV,81.16,3.7833,72.9667,Coral View Inn
+655,Mandapam,IN,79.54,9.2833,79.1167,GOWRI MESS
+657,Weligama,LK,74.35,5.9667,80.4167,Basecamp
+666,Dangriga,BZ,79.32,16.9692,-88.2321,Weyohan Hotel
+667,Tubuala,PA,80.49,9.5167,-79.0333,No hotel found
+668,Tamandare,BR,82.11,-8.7597,-35.1047,Pousada Baia dos Corais
+669,Aden,YE,78.17,12.7794,45.0367,فندق قصر الجزيرة
+670,Puerto Baquerizo Moreno,EC,70.05,-0.9,-89.6,Dory's House
+673,Oussouye,SN,76.98,12.485,-16.5469,Campement Alulum
+674,Pombas,CV,76.78,17.1503,-25.0201,Aldeia Jerome
+675,Lima Duarte,BR,71.2,-21.8425,-43.7931,No hotel found
+676,Ler,SS,82.26,8.3018,30.1418,Green Hotel
+677,Miranda,CO,77.7,3.2499,-76.2281,Encantos
+678,Tignere,CM,72.21,7.3667,12.65,No hotel found
+679,Joacaba,BR,80.06,-27.1781,-51.5047,Hotel Jaraguá
+680,Toamasina,MG,75.0,-18.1667,49.3833,Androranga
+684,Tuni,IN,73.02,17.35,82.55,No hotel found
+688,Ilhabela,BR,71.64,-23.7781,-45.3581,Vila Kebaya
+691,Luba,GQ,80.94,3.4568,8.5547,Hotel Jones
+692,Maldonado,UY,72.79,-34.6667,-54.9167,No hotel found
+693,Ikom,NG,81.79,5.9667,8.7063,Gold Palm Hotels
